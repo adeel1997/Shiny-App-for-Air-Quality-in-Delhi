@@ -3,24 +3,6 @@ library(mapview)
 library(plainview)
 library(shiny)
 library(leaflet)
-#header <- dashboardHeader(title="Adeel Khan")
-
-#sidebar <- dashboardSidebar(
-#)
-
-#body <- dashboardBody(
-#    # Define UI for application
-#    fluidPage(
-#        sidebarPanel(
-#            sliderInput("slider", "Time", min = as.Date("2019-01-01"),max =as.Date("2019-12-31"),
-#                        value=as.Date("2019-01-01"),timeFormat="%B %Y")),
-#        mainPanel(
-#            leafletOutput("mapplot"),
-#            plainViewOutput("test")
-#        ))
-#)
-
-#ui <- dashboardPage(header, sidebar, body, skin="black")
 
 ui <- bootstrapPage(
     tags$style(type = "text/css", "html, body {width:100%;height:100%}"),
