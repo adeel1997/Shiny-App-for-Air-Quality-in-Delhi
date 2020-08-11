@@ -1,0 +1,12 @@
+name: Air_Quality_Delhi
+title: Air_Quality_Delhi
+username:
+account: adeel707
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2659895
+bundleId: 3502171
+url: https://adeel707.shinyapps.io/Air_Quality_Delhi/
+when: 1597158274.01572
+asMultiple: FALSE
+asStatic: FALSE
